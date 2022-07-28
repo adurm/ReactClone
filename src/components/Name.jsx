@@ -1,5 +1,7 @@
 export default function Name() {
     return (
-        <h1>Adam Moussa</h1>
+        <div className="flex flex-grow justify-center items-center text-gray-300 font-bold">
+            Adam Moussa
+        </div>
     )
 }
